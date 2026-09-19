@@ -23,3 +23,13 @@ h1 {
     width: 300px;
     max-width: 100%;
 }
+.quote {
+    border: 2px solid blue;
+    color: blue;
+    width: 300px;
+    max-width: 90%;
+    padding: 10px;
+    background: white;
+    margin: 15px auto;
+    box-sizing: border-box;
+}
