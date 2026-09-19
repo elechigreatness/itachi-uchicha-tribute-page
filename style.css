@@ -19,3 +19,7 @@ h1 {
     text-align: center;
     margin: 20px;
 }
+.top img {
+    width: 300px;
+    max-width: 100%;
+}
