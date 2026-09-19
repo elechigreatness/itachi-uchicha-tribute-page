@@ -51,3 +51,10 @@ h1 {
     text-align: center;
     padding: 20px;
 }
+.footer a {
+    color: white;
+    border: 1px solid white;
+    padding: 8px 15px;
+    text-decoration: none;
+    display: inline-block;
+}
